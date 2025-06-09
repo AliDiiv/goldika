@@ -1,0 +1,106 @@
+{
+  "token": [
+    {
+      "walletBalance": "3.55",
+      "goldWalletBalance": "1980000",
+      "id": "23fa"
+    }
+  ],
+  "gold": [
+    {
+      "goldBuyBalance": "3466936",
+      "goldSellBalance": "3398419",
+      "id": "cf83"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "علی",
+      "family": "رضایی",
+      "number": "09123456789",
+      "pass": "hashed_password_1",
+      "token": "unique_token_1",
+      "pocket": {
+        "walletBalance": "1000000",
+        "goldWalletBalance": "50",
+        "cart": [],
+        "cards": []
+      }
+    },
+    {
+      "id": "2",
+      "name": "مریم",
+      "family": "احمدی",
+      "number": "09234567890",
+      "pass": "hashed_password_2",
+      "token": "unique_token_2",
+      "pocket": {
+        "walletBalance": "2000000",
+        "goldWalletBalance": "100",
+        "cart": [],
+        "cards": []
+      }
+    },
+    {
+      "id": "d2f99fc1-44f2-4d25-b566-9458d399a826",
+      "name": "علی",
+      "family": "محمد جعفری",
+      "pass": "123456",
+      "rePass": "123456",
+      "number": "09147037449",
+      "token": "unique_token_3",
+      "pocket": {
+        "walletBalance": "20000000",
+        "goldWalletBalance": "0.000",
+        "cart": [],
+        "cards": [
+          "6219861907353881",
+          "علی محمد جعفری"
+        ]
+      }
+    },
+    {
+      "id": "7661fa0f-320d-41dd-b4c6-5d314cb3b8ea",
+      "name": "علی",
+      "family": "محمد جعفری",
+      "pass": "123456",
+      "rePass": "123456",
+      "number": "09147037749",
+      "pocket": {
+        "walletBalance": "0",
+        "goldWalletBalance": "0.000",
+        "cart": [],
+        "cards": []
+      }
+    },
+    {
+      "id": "4f15dbad-8e1d-4ca3-954e-ca7457b1ad07",
+      "name": "پیمان",
+      "family": "حسینی",
+      "pass": "۱۲۳۴۵۶۷۸۹",
+      "rePass": "۱۲۳۴۵۶۷۸۹",
+      "number": "09050009551",
+      "pocket": {
+        "walletBalance": "0",
+        "goldWalletBalance": "0.000",
+        "cart": [],
+        "cards": []
+      }
+    },
+    {
+      "id": "e8e7840d-bd09-4893-8c4e-4852f3497867",
+      "name": "fhf",
+      "family": "fgfgdd",
+      "pass": "123456",
+      "rePass": "123456",
+      "number": "09140737449",
+      "pocket": {
+        "walletBalance": "0",
+        "goldWalletBalance": "0.000",
+        "cart": [],
+        "cards": []
+      }
+    }
+  ]
+}
